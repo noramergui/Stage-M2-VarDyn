@@ -8,5 +8,5 @@
 !*.py
 !*.ipynb
 
-# Optionnel : garder gitignore lui-même
+# Garder gitignore
 !.gitignore
