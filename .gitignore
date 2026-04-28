@@ -1,0 +1,12 @@
+# Tout ignorer
+*
+
+# Sauf les dossiers
+!*/
+
+# Sauf fichiers Python et notebooks
+!*.py
+!*.ipynb
+
+# Optionnel : garder gitignore lui-même
+!.gitignore
